@@ -84,7 +84,7 @@ Décocher "Use the system fixed width font" et dans "Font" choisir "**Roboto Mon
 			   
 Dans **Profiles** > **Colors**:
 
-_Décocher "Use colors from system theme"_ et dans "Built-in schemes" choisir "**Solarized dark**" puis dans la section "**Palette" choisir "Solarized**".
+Décocher "Use colors from system theme" et dans "Built-in schemes" choisir "**Solarized dark**" puis dans la section "**Palette**" choisir "**Solarized**".
 
 > Fermer le terminal puis le relancer via le raccourci clavier "Ctrl+Alt+T".
 
