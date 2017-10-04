@@ -14,7 +14,7 @@
 
 ## Etapes
 
-### Terminator
+### Installer Terminator
 
 	sudo apt-get install terminator
 
