@@ -18,18 +18,18 @@
 
 	sudo apt-get install terminator
 
-Fermer le terminal puis le relancer via le raccourci clavier "Ctrl+Alt+T".
+> Fermer le terminal puis le relancer via le raccourci clavier "Ctrl+Alt+T".
 
 
 ### Installer ZSH:
 
 	sudo apt-get install zsh
 
-#### Changer l'interpretateur de commande:
+#### Changer l'interpretateur de commande via:
  	
 	chsh
 
-#### à la question "Login Shell [/bin/bash]", répondre:
+#### A la question "Login Shell [/bin/bash]", répondre:
 
 	/bin/zsh
 	
@@ -76,17 +76,17 @@ Passer les commandes suivante dans le terminal (l'une après l'autre):
 
 et enregistrer!
 
-### Configurer votre nouveau terminal (Terminator)
+### Configurer votre nouveau terminal (Terminator):
 
-Clic droit sur le terminal > Preferences puis Profiles > General. 
+Clic droit sur le terminal > Preferences puis Profiles > General:
 
 Décocher "Use the system fixed width font" et dans "Font" choisir "Roboto Mono for Powerline" (Size 13).
 			   
-Dans Profiles > Colors 
+Dans Profiles > Colors:
 
 Décocher "Use colors from system theme" et dans "Built-in schemes" choisir "Solarized dark" puis dans la section "Palette" choisir "Solarized".
 
-### Et voila...
+### Et voila:
 
 ![Image 1](Term1.png)
 ![Image 2](Term2.png)
