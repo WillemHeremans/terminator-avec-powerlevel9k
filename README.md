@@ -18,7 +18,7 @@
 
 	sudo apt-get install terminator
 
->>> Fermer le terminal puis le relancer via le raccourci clavier "Ctrl+Alt+T".
+> Fermer le terminal puis le relancer via le raccourci clavier "Ctrl+Alt+T".
 
 
 ### Installer ZSH:
