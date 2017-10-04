@@ -74,7 +74,7 @@
 
 	 ZSH_THEME="powerlevel9k/powerlevel9k"
 
-et enregistrer!
+et enregistrer! (via raccourci clavier "Ctrl+Alt+X" puis en tapant "y" et touche "enter")
 
 ### Configurer votre nouveau terminal (Terminator):
 
