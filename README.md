@@ -1,8 +1,8 @@
 # Terminator, OhMyZsh et Powerlevel9K sur Linux
 
-## Vue d'ensemble
+## Sommaire
 
-1. Installer Terminator via PPA
+1. Installer Terminator
 2. Installer ZSH
 3. Installer OhMyZsh 
 4. Télécharger et installer les polices
@@ -12,16 +12,16 @@
 [Source](https://gist.github.com/renshuki/3cf3de6e7f00fa7e744a)
 
 
-## Etapes
+## Etapes:
 
-### Installer Terminator
+### Installer Terminator:
 
 	sudo apt-get install terminator
 
-Fermer le terminal puis le relancer via le raccourci clavier "Ctrl+Alt+T"
+Fermer le terminal puis le relancer via le raccourci clavier "Ctrl+Alt+T".
 
 
-### Installer ZSH
+### Installer ZSH:
 
 	sudo apt-get install zsh
 
@@ -34,13 +34,13 @@ Changer l'interpretateur de commande:
 	/bin/zsh
 	
 
-Fermer le terminal puis le relancer via le raccourci clavier "Ctrl+Alt+T"
+Fermer le terminal puis le relancer via le raccourci clavier "Ctrl+Alt+T".
 
-### Install Oh My ZSH
+### Installer Oh My ZSH:
 
 	sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 
-### Fonts
+### Télécharger et installer les polices:
 
 Passer les commandes suivante dans le terminal (l'une après l'autre):
 
@@ -52,7 +52,7 @@ Passer les commandes suivante dans le terminal (l'une après l'autre):
 	mv 10-powerline-symbols.conf ~/.config/fontconfig/conf.d/
         
 
-### Installer Powerlevel9k
+### Installer Powerlevel9k:
 
 Installer PowerLevel9k:
 
