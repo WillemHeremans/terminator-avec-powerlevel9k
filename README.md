@@ -25,7 +25,7 @@ Fermer le terminal puis le relancer via le raccourci clavier "Ctrl+Alt+T".
 
 	sudo apt-get install zsh
 
-Changer l'interpretateur de commande:
+#### Changer l'interpretateur de commande:
  	
 	chsh
 
