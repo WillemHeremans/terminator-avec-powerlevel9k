@@ -34,7 +34,7 @@
 	/bin/zsh
 	
 
-Fermer le terminal puis le relancer via le raccourci clavier "Ctrl+Alt+T".
+> Fermer le terminal puis le relancer via le raccourci clavier "Ctrl+Alt+T".
 
 ### Installer Oh My ZSH:
 
@@ -42,7 +42,7 @@ Fermer le terminal puis le relancer via le raccourci clavier "Ctrl+Alt+T".
 
 ### Télécharger et installer les polices:
 
-Passer les commandes suivante dans le terminal (l'une après l'autre):
+> Passer les commandes suivante dans le terminal (l'une après l'autre):
 
 	wget https://github.com/powerline/powerline/raw/develop/font/PowerlineSymbols.otf
 	mkdir ~/.fonts/
