@@ -78,13 +78,13 @@ et enregistrer!
 
 ### Configurer votre nouveau terminal (Terminator):
 
-Clic droit sur le terminal > Preferences puis Profiles > General:
+Clic droit sur le terminal et choisir **Preferences** puis aller dans **Profiles** > **General**:
 
-Décocher "Use the system fixed width font" et dans "Font" choisir "Roboto Mono for Powerline" (Size 13).
+Décocher "Use the system fixed width font" et dans "Font" choisir "**Roboto Mono for Powerline**" (Size 13).
 			   
-Dans Profiles > Colors:
+Dans **Profiles** > **Colors**:
 
-Décocher "Use colors from system theme" et dans "Built-in schemes" choisir "Solarized dark" puis dans la section "Palette" choisir "Solarized".
+__Décocher "Use colors from system theme"__ et dans "Built-in schemes" choisir "**Solarized dark**" puis dans la section "**Palette" choisir "Solarized**".
 
 > Fermer le terminal puis le relancer via le raccourci clavier "Ctrl+Alt+T".
 
