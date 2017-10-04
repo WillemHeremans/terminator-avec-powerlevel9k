@@ -29,7 +29,7 @@ Fermer le terminal puis le relancer via le raccourci clavier "Ctrl+Alt+T".
  	
 	chsh
 
-à la question "Login Shell [/bin/bash]", répondre:
+#### à la question "Login Shell [/bin/bash]", répondre:
 
 	/bin/zsh
 	
@@ -54,23 +54,23 @@ Passer les commandes suivante dans le terminal (l'une après l'autre):
 
 ### Installer Powerlevel9k:
 
-Installer PowerLevel9k:
+#### Installer via Git:
 
 	git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k
 
-Et editer le fichier .zshrc dans le dossier Home:
+#### Et editer le fichier .zshrc dans le dossier Home:
 
 	nano ~/.zshrc
 
-Ajouter d'abord cette ligne en tête du fichier:
+#### Ajouter d'abord cette ligne en tête du fichier:
 
 	export TERM="xterm-256color"
 
-Puis changer la valeur de cette ligne:
+#### Puis changer la valeur de cette ligne:
 
 	 ZSH_THEME="robbyrussell"
 
-par celle ci:
+#### par celle ci:
 
 	 ZSH_THEME="powerlevel9k/powerlevel9k"
 
