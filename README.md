@@ -1,6 +1,6 @@
 # Terminator, OhMyZsh et Powerlevel9K sur Linux
 
-## Sommaire
+## Sommaire:
 
 1. Installer Terminator
 2. Installer ZSH
